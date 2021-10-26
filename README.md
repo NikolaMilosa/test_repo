@@ -2,4 +2,3 @@
 
 izmena
 nova izmena
-jos
