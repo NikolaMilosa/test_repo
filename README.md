@@ -2,3 +2,4 @@
 
 izmena
 nova izmena
+novi tekst
